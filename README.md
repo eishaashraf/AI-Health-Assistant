@@ -121,3 +121,35 @@ It does not provide professional medical advice, diagnosis, or treatment. Users 
 BS Physics
 
 AI Health Assistant Project
+
+## 🤖 AI Development
+
+This project was developed with the assistance of OpenAI tools.
+
+### GPT-5.6
+GPT-5.6 was used to:
+- Brainstorm project ideas
+- Improve the application structure
+- Debug Python and Streamlit code
+- Generate documentation and README content
+- Refine the user interface and project presentation
+
+### Codex
+Codex was used to:
+- Assist with Python and Streamlit development
+- Troubleshoot coding issues
+- Improve code quality
+- Support debugging during development
+
+The final application, testing, deployment, and integration were completed by the developer.
+
+## Disclaimer
+...
+
+## Author
+...
+
+## 🤖 AI Development
+
+This project was developed with the assistance of OpenAI tools.
+...
