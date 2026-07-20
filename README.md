@@ -64,4 +64,60 @@ Healthcare information can be difficult to understand for many people. AI Health
 
 ### First Aid
 
-![First Aid](screenshots/firstaid.png)
+![First Aid](screenshots/firstaid.png) 
+## 📦 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/eishaashraf/AI-Health-Assistant.git
+```
+
+Move into the project folder:
+
+```bash
+cd AI-Health-Assistant
+```
+
+Install the required packages:
+
+```bash
+pip install -r requirements.txt
+```
+## ▶️ How to Run
+
+Create a `.env` file and add your OpenRouter/OpenAI API key.
+
+Example:
+
+```text
+OPENROUTER_API_KEY=your_api_key_here
+```
+
+Run the application:
+
+```bash
+python -m streamlit run app.py
+```
+## 🚀 Future Improvements
+
+Future versions may include:
+
+- Appointment booking
+- Medicine reminder
+- Health report analysis
+- AI chatbot with medical knowledge
+- Voice assistant
+- Multi-language support
+## ⚠️ Disclaimer
+
+This project is intended for educational purposes only.
+
+It does not provide professional medical advice, diagnosis, or treatment. Users should always consult qualified healthcare professionals for medical concerns.
+## 👩‍💻 Author
+
+**Eisha Ashraf**
+
+BS Physics
+
+AI Health Assistant Project
